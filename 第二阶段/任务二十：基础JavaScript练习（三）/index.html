@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>task20 基础JavaScript练习（三）</title>
+    <style type="text/css">
+        body {
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            -webkit-align-items: center;
+            -ms-flex-align: center;
+            align-items: center;
+            margin:20px;
+            padding:10px;
+        }
+
+        li {
+            display: inline-block;
+            background-color: rgba(255, 0, 0, 0.5);
+            margin: 2px 2px;
+            border-radius: 15px;
+            padding: 7px;
+            color: #fff;
+            transition: all 1s;
+        }
+
+        li:hover {
+            cursor: pointer;
+        }
+
+        ul {
+            padding-left: 0;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: flex-end;
+            -ms-flex-align: end;
+            align-items: flex-end;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        }
+        textarea{
+            width:100%;
+        }
+        input {
+            border: 1px #ff0000 solid;
+            background-color: #fff;
+            border-radius: 15px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.5s;
+        }
+
+        input:hover {
+            background-color: rgba(255, 0, 0, 0.7);
+            transition: all 0.5s;
+        }
+    </style>
+
+</head>
+<body>
+    <div>
+        <textarea placeholder="批量输入多个内容，格式可以为数字、中文、英文等，可以通过用回车，逗号（全角半角均可），顿号，空格（全角半角、Tab等均可）等符号作为不同内容的间隔。" id="inputText" cols="100" rows="5"></textarea>
+        <input type="button" value="左侧入" id="inputLeftIn">
+        <input type="button" value="右侧入" id="inputRightIn">
+        <input type="button" value="左侧出" id="inputLeftOut">
+        <input type="button" value="右侧出" id="inputRightOut">
+        <input type="text" placeholder="输入想查询的标签名" id="searchInput">
+        <input type="button" value="查询" id="searchBtn">
+        <input type="button" value="重置" id="resetBtn">
+    </div>
+    <ul id="content"></ul>
+
+    <script src="index.js"></script>
+</body>
+</html>

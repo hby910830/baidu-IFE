@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da147ca8-5860-42c0-990a-44cfd1d2f681" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/earth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/night.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十三：JavaScript和树（二）/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十三：JavaScript和树（二）/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十二：JavaScript和树（一）/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十二：JavaScript和树（一）/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/commander.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/god.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/spaceship.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十四：JavaScript和树（三/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十四：JavaScript和树（三/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/jason.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务三十：表单（二）多个表单项的动态校验/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务三十：表单（二）多个表单项的动态校验/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十九：表单（一）单个表单项的检验/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二阶段/任务二十九：表单（一）单个表单项的检验/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="baidu-IFE.iws" />
@@ -40,42 +33,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="commander.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/commander.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1272">
-              <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/main.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="god.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/god.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="245" column="7" selection-start-line="245" selection-start-column="7" selection-end-line="245" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spaceship.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/spaceship.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="259">
+              <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#779#1046#0" expanded="false" />
+                <element signature="e#1081#1125#0" expanded="false" />
+                <element signature="e#1207#1472#0" expanded="false" />
+                <element signature="e#1476#1532#0" expanded="false" />
+                <element signature="e#1571#1880#0" expanded="false" />
+                <element signature="e#1891#2011#0" expanded="false" />
+                <element signature="e#2311#2355#0" expanded="false" />
+                <element signature="e#2802#2830#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,6 +88,12 @@
         <option value="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/main.js" />
         <option value="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/index.html" />
         <option value="$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/index.css" />
+        <option value="$PROJECT_DIR$/第二阶段/任务二十九：表单（一）单个表单项的检验/index.html" />
+        <option value="$PROJECT_DIR$/第二阶段/任务二十九：表单（一）单个表单项的检验/index.js" />
+        <option value="$PROJECT_DIR$/第二阶段/任务三十：表单（二）多个表单项的动态校验/index.html" />
+        <option value="$PROJECT_DIR$/第二阶段/任务三十：表单（二）多个表单项的动态校验/index.js" />
+        <option value="$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.js" />
+        <option value="$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.html" />
       </list>
     </option>
   </component>
@@ -115,8 +104,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
-    <option name="y" value="138" />
+    <option name="x" value="2" />
+    <option name="y" value="152" />
     <option name="width" value="1293" />
     <option name="height" value="682" />
   </component>
@@ -145,7 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -182,7 +171,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="任务二十八：行星与飞船（三）" />
+              <option name="myItemId" value="任务三十一：表单（三）联动" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -198,7 +187,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,6 +277,7 @@
       <workItem from="1486525408263" duration="101000" />
       <workItem from="1487035421016" duration="13349000" />
       <workItem from="1487126089936" duration="21604000" />
+      <workItem from="1487216673395" duration="16388000" />
     </task>
     <task id="LOCAL-00001" summary="任务二十">
       <created>1486047250199</created>
@@ -300,13 +290,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59434000" />
+    <option name="totallyTimeSpent" value="75822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="138" width="1293" height="682" extended-state="0" />
+    <frame x="2" y="152" width="1293" height="682" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11391375" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11554109" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -346,14 +336,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/commander.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/god.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4410">
+          <caret line="245" column="7" selection-start-line="245" selection-start-column="7" selection-end-line="245" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/spaceship.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#table#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -377,12 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
           <caret line="72" column="74" selection-start-line="72" selection-start-column="74" selection-end-line="72" selection-end-column="74" />
-          <folding>
-            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,12 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
           <caret line="72" column="74" selection-start-line="72" selection-start-column="74" selection-end-line="72" selection-end-column="74" />
-          <folding>
-            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -447,12 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,12 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding>
-            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,17 +573,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="3828" column="0" selection-start-line="3828" selection-start-column="0" selection-end-line="3828" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/god.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="4410">
           <caret line="245" column="7" selection-start-line="245" selection-start-column="7" selection-end-line="245" selection-end-column="7" />
           <folding />
         </state>
@@ -597,7 +583,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/spaceship.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
+        <state relative-caret-position="2160">
           <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
           <folding />
         </state>
@@ -607,33 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#2#195#0" expanded="false" />
-            <element signature="e#201#276#0" expanded="false" />
-            <element signature="e#287#411#0" expanded="false" />
-            <element signature="e#419#562#0" expanded="false" />
-            <element signature="e#570#768#0" expanded="false" />
-            <element signature="e#777#848#0" expanded="false" />
-            <element signature="e#857#928#0" expanded="false" />
-            <element signature="e#937#1008#0" expanded="false" />
-            <element signature="e#1017#1088#0" expanded="false" />
-            <element signature="e#1099#1334#0" expanded="false" />
-            <element signature="e#1350#1436#0" expanded="false" />
-            <element signature="e#1451#1578#0" expanded="false" />
-            <element signature="e#1589#1827#0" expanded="false" />
-            <element signature="e#1843#1929#0" expanded="false" />
-            <element signature="e#1944#2133#0" expanded="false" />
-            <element signature="e#2156#2374#0" expanded="false" />
-            <element signature="e#2388#2474#0" expanded="false" />
-            <element signature="e#2506#2644#0" expanded="false" />
-            <element signature="e#2674#2923#0" expanded="false" />
-            <element signature="e#2953#3202#0" expanded="false" />
-            <element signature="e#3232#3481#0" expanded="false" />
-            <element signature="e#3511#3760#0" expanded="false" />
-            <element signature="e#3786#4224#0" expanded="false" />
-            <element signature="e#4242#4365#0" expanded="false" />
-            <element signature="e#4380#4631#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,25 +600,118 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#table#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/commander.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1272">
-          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="479">
           <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十八：行星与飞船（三）/commander.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十九：表单（一）单个表单项的检验/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#708#982#0" expanded="false" />
+            <element signature="e#1001#1066#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务二十九：表单（一）单个表单项的检验/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#743#1203#0" expanded="false" />
+            <element signature="e#1255#1497#0" expanded="false" />
+            <element signature="e#1690#1766#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务三十：表单（二）多个表单项的动态校验/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="160" column="0" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding>
+            <element signature="e#216#3751#0" expanded="false" />
+            <element signature="e#299#436#0" expanded="false" />
+            <element signature="e#440#501#0" expanded="false" />
+            <element signature="e#528#572#0" expanded="false" />
+            <element signature="e#576#654#0" expanded="false" />
+            <element signature="e#701#968#0" expanded="false" />
+            <element signature="e#972#1042#0" expanded="false" />
+            <element signature="e#1066#1113#0" expanded="false" />
+            <element signature="e#1117#1215#0" expanded="false" />
+            <element signature="e#1276#1547#0" expanded="false" />
+            <element signature="e#1551#1631#0" expanded="false" />
+            <element signature="e#1687#2158#0" expanded="false" />
+            <element signature="e#2162#2241#0" expanded="false" />
+            <element signature="e#2301#2679#0" expanded="false" />
+            <element signature="e#2683#2764#0" expanded="false" />
+            <element signature="e#2821#3228#0" expanded="false" />
+            <element signature="e#3232#3312#0" expanded="false" />
+            <element signature="e#3369#3749#0" expanded="false" />
+            <element signature="e#3810#3868#0" expanded="false" />
+            <element signature="n#!!doc;n#check#0" expanded="false" />
+            <element signature="e#5760#5782#0" expanded="false" />
+            <element signature="e#5850#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务三十：表单（二）多个表单项的动态校验/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1630">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="2371" column="0" selection-start-line="2371" selection-start-column="0" selection-end-line="2371" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#779#1046#0" expanded="false" />
+            <element signature="e#1081#1125#0" expanded="false" />
+            <element signature="e#1207#1472#0" expanded="false" />
+            <element signature="e#1476#1532#0" expanded="false" />
+            <element signature="e#1571#1880#0" expanded="false" />
+            <element signature="e#1891#2011#0" expanded="false" />
+            <element signature="e#2311#2355#0" expanded="false" />
+            <element signature="e#2802#2830#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二阶段/任务三十一：表单（三）联动/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
           <folding />
         </state>
       </provider>
